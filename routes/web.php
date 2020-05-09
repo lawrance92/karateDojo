@@ -23,30 +23,30 @@ Route::get('/index.html', function () {
 });
 
 Route::get('/404.html', function () {
-    return view('index');
+    return view('404');
 });
 
 Route::get('/about.html', function () {
-    return view('index');
+    return view('about');
 });
 Route::get('/comingsoon.html', function () {
-    return view('index');
+    return view('comingsoon');
 });
 
 Route::get('/contact.html', function () {
-    return view('index');
+    return view('contact');
 });
 
 Route::get('/contact4.html', function () {
-    return view('index');
+    return view('contact4');
 });
 
 Route::get('/copyright1.html', function () {
-    return view('index');
+    return view('copyright1');
 });
 
 Route::get('/event-single-full.html', function () {
-    return view('index');
+    return view('event-single-full');
 });
 
 Route::get('/event-single-left.html', function () {
@@ -54,75 +54,75 @@ Route::get('/event-single-left.html', function () {
 });
 
 Route::get('/event-single-right.html', function () {
-    return view('index');
+    return view('event-single-right');
 });
 
 Route::get('/events-full.html', function () {
-    return view('index');
+    return view('events-full');
 });
 
 Route::get('/events-left.html', function () {
-    return view('index');
+    return view('events-left');
 });
 
 Route::get('/events-right.html', function () {
-    return view('index');
+    return view('events-right');
 });
 
 Route::get('/faq.html', function () {
-    return view('index');
+    return view('faq');
 });
 
 Route::get('/faq2.html', function () {
-    return view('index');
+    return view('faq2');
 });
 
 Route::get('/footer1.html', function () {
-    return view('index');
+    return view('footer1');
 });
 
 Route::get('/gallery-image-4-cols-fullwidth.html', function () {
-    return view('index');
+    return view('gallery-image-4-cols-fullwidth');
 });
 
 Route::get('/gallery-title-4-cols-fullwidth.html', function () {
-    return view('index');
+    return view('gallery-title-4-cols-fullwidth');
 });
 
 Route::get('/gallery-title.html', function () {
-    return view('index');
+    return view('gallery-title');
 });
 
 Route::get('/index_static.html', function () {
-    return view('index');
+    return view('index_static');
 });
 
 Route::get('/pricing.html', function () {
-    return view('index');
+    return view('pricing');
 });
 
 Route::get('/service-single.html', function () {
-    return view('index');
+    return view('service-single');
 });
 
 Route::get('/services.html', function () {
-    return view('index');
+    return view('services');
 });
 
 Route::get('/services3.html', function () {
-    return view('index');
+    return view('services3');
 });
 
 Route::get('/team-single.html', function () {
-    return view('index');
+    return view('team-single');
 });
 
 Route::get('/team.html', function () {
-    return view('index');
+    return view('team');
 });
 
 Route::get('/timetable.html', function () {
-    return view('index');
+    return view('timetable');
 });
 
 Route::group(['prefix' => 'admin'], function () {

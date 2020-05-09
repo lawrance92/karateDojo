@@ -120,7 +120,7 @@
 
 										<li class="active">
 											<a href="index-2.html">Home</a>
-											<ul>
+											<!-- <ul>
 												<li>
 													<a href="index-2.html">MultiPage</a>
 												</li>
@@ -130,7 +130,7 @@
 												<li>
 													<a href="index_singlepage.html">Single Page</a>
 												</li>
-											</ul>
+											</ul> -->
 										</li>
 										<li>
 											<a href="about.html">Pages</a>
@@ -541,66 +541,7 @@
 											</ul>
 										</li>
 										<!-- eof Gallery -->
-										<!-- shop -->
-										<li>
-											<a href="shop-right.html">Shop</a>
-											<ul>
-												<li>
-													<a href="shop-account-dashboard.html">Account</a>
-													<ul>
-
-														<li>
-															<a href="shop-account-details.html">Account details</a>
-														</li>
-														<li>
-															<a href="shop-account-addresses.html">Addresses</a>
-														</li>
-														<li>
-															<a href="shop-account-address-edit.html">Edit Address</a>
-														</li>
-														<li>
-															<a href="shop-account-orders.html">Orders</a>
-														</li>
-														<li>
-															<a href="shop-account-order-single.html">Single Order</a>
-														</li>
-														<li>
-															<a href="shop-account-downloads.html">Downloads</a>
-														</li>
-														<li>
-															<a href="shop-account-password-reset.html">Password Reset</a>
-														</li>
-														<li>
-															<a href="shop-account-login.html">Login/Logout</a>
-														</li>
-
-													</ul>
-												</li>
-												<li>
-													<a href="shop-right.html">Right Sidebar</a>
-												</li>
-												<li>
-													<a href="shop-left.html">Left Sidebar</a>
-												</li>
-												<li>
-													<a href="shop-product-right.html">Product Right Sidebar</a>
-												</li>
-												<li>
-													<a href="shop-product-left.html">Product Left Sidebar</a>
-												</li>
-												<li>
-													<a href="shop-cart.html">Cart</a>
-												</li>
-												<li>
-													<a href="shop-checkout.html">Checkout</a>
-												</li>
-												<li>
-													<a href="shop-order-received.html">Order Received</a>
-												</li>
-
-											</ul>
-										</li>
-										<!-- eof shop -->
+										
 										<!-- contacts -->
 										<li>
 											<a href="contact.html">Contact</a>
